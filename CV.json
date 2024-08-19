@@ -1,1 +1,13 @@
-
+{ 
+    "Información personal": {
+        "Nombre": "Jorge",
+        "Apellidos": "Felipe Gil",
+        "Fecha de nacimiento": "04/12/1998",
+        "Carnet de conducir": true
+    },
+    "Contacto": {
+        "Telefono": "699232996",
+        "Email": "jorgefelipegil@gmail.com"
+    }
+    [ "Comida Favorita: "]
+}
